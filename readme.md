@@ -43,13 +43,13 @@ With these results, we are confident that we would be able to serve our clients 
 
 Task delegations:
 
-Data cleansing: Khairul & Alek
-Data exploration: Khairul & Alek
-Data subsetting: Khairul
-Deciding variables for model: Khairul & Alek
-Single variable regression model: Khairul
-Multiple variables regression mode: Khairul
-Fine-tuning regression models: Khairul & Alek
-Formalising Jupiter notebook: Khairul
-Presentation slides: Khairul & Alek
+1. Data cleansing: Khairul & Alek
+2. Data exploration: Khairul & Alek
+3. Data subsetting: Khairul
+4. Deciding variables for model: Khairul & Alek
+5. Single variable regression model: Khairul
+6. Multiple variables regression mode: Khairul
+7. Fine-tuning regression models: Khairul & Alek
+8. Formalising Jupiter notebook: Khairul
+9. Presentation slides: Khairul & Alek
 
