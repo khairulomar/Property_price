@@ -1,10 +1,6 @@
-Module 1 project - DS111819
+# Property Price Prediction in King County (Seattle)
 
-Team members:
-1. Khairul Omar
-2. Aleksandar Gakovic
-
-Executive summary:
+Executive summary
 
 We're taking the position of a real estate agency to advice prospective sellers in setting the right asking price, and to prospective buyers to gauge if an asking price is a good deal for a given area.
 
@@ -40,16 +36,4 @@ With an r-squared value of 0.701 for our model, we conclude that the property pr
 We worked on the assumption that areas with significantly higher price per square feet (of living space) than the overall county constitute as premium locations. Cross-referencing our findings with a zipcode map (link here), we noted that Medina (zipcode 98039) is most premium location in King County, driven by its proximity to the city centre and great waterfront views facing Lake Washington. In addition, zipcodes around Belleview and downtown Seattle are also identified as premium locations.
 
 With these results, we are confident that we would be able to serve our clients better in advising them on the right price for both selling and buying.
-
-Task delegations:
-
-1. Data cleansing: Khairul & Alek
-2. Data exploration: Khairul & Alek
-3. Data subsetting: Khairul
-4. Deciding variables for model: Khairul & Alek
-5. Single variable regression model: Khairul
-6. Multiple variables regression mode: Khairul
-7. Fine-tuning regression models: Khairul & Alek
-8. Formalising Jupiter notebook: Khairul
-9. Presentation slides: Khairul & Alek
 
