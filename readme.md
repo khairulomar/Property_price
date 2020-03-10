@@ -1,6 +1,6 @@
 # Property Price Prediction in King County (Seattle)
 
-Executive summary
+### Executive summary
 
 We're taking the position of a real estate agency to advice prospective sellers in setting the right asking price, and to prospective buyers to gauge if an asking price is a good deal for a given area.
 
@@ -10,7 +10,7 @@ Specifically, we are looking to answer the following questions:
 2. Could property prices in King County be reliably predicted?
 3. Which areas in King County can be considered as premium locations?
 
-High-level overview of methodology:
+### High-level overview of methodology:
 
 1. Discuss the direction of project and key questions to be addressed.
 1. Initial data exploration, data cleansing and agree on assumptions.
@@ -27,7 +27,7 @@ High-level overview of methodology:
 12. Refine model by exploring normalisation of variables and retest.
 13. Finalise model reliability via various statistical measures.
 
-Key findings and conclusions:
+### Key findings and conclusions:
 
 Our model shows that the primary driver for property prices in King County is the square footage of the living space. Property prices are also highly impacted by its location in the city (derived from zipcode): in particular, properties in premium areas in and near the city have higher prices than it outer suburbs. Building grade as set by the county authority is also another factor as higher grade properties are in better condition and thus can fetch a higher price. Finally in our model, waterfront view is another factor that pushes the property price up due to the prime views.
 
